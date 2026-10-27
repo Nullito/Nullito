@@ -4,7 +4,7 @@
 
 <a href="https://www.youtube.com/@Nullito-main"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=4FA1FE&center=true&vCenter=true&width=640&lines=Funciona+en+mi+m%C3%A1quina.;Tierno+por+fuera%2C+programador+quemado+por+dentro.;Me+quejo+de+todo.+Luego+te+explico+por+qu%C3%A9.;Cero+emojis.+Mucho+rencor." alt="Funciona en mi máquina."></a>
 
-<a href="https://www.youtube.com/@Nullito-main"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://www.instagram.com/nullitomain/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://www.facebook.com/people/Nullito/61595963339452/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://nullito.dev"><img src="https://img.shields.io/badge/nullito.dev-4FA1FE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="nullito.dev"></a> <a href="https://www.youtube.com/@Nullito-main"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://www.instagram.com/nullitomain/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://www.facebook.com/people/Nullito/61595963339452/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 </div>
 
